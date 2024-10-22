@@ -1,0 +1,9 @@
+[submodule "Code/STM32_RTOS_PeripheralDriver"]
+	path = Code/STM32_RTOS_PeripheralDriver
+	url = git@github.com:vantin2912/STM32_RTOS_PeripheralDriver.git
+[submodule "Code/STM32-Hardware-Driver"]
+	path = Code/STM32-Hardware-Driver
+	url = git@github.com:vantin2912/STM32-Hardware-Driver.git
+[submodule "Code/UtilitySmallFunction"]
+	path = Code/UtilitySmallFunction
+	url = git@github.com:vantin2912/UtilitySmallFunction.git

@@ -1,0 +1,10 @@
+../STM32-Hardware-Driver/Encoder/Encoder.c:18:6:Encoder_Thread	40	static
+../STM32-Hardware-Driver/Encoder/Encoder.c:37:6:Encoder_Init	24	static
+../STM32-Hardware-Driver/Encoder/Encoder.c:47:6:Encoder_Start	16	static
+../STM32-Hardware-Driver/Encoder/Encoder.c:57:7:Encoder_GetCount	24	static
+../STM32-Hardware-Driver/Encoder/Encoder.c:66:6:Encoder_Run	40	static
+../STM32-Hardware-Driver/Encoder/Encoder.c:80:7:Encoder_GetSpeed_PPS	24	static
+../STM32-Hardware-Driver/Encoder/Encoder.c:85:7:Encoder_GetSpeed_MPS	24	static
+../STM32-Hardware-Driver/Encoder/Encoder.c:90:6:Encoder_startTravelled	16	static
+../STM32-Hardware-Driver/Encoder/Encoder.c:94:6:Encoder_clearTravelled	16	static
+../STM32-Hardware-Driver/Encoder/Encoder.c:100:7:Encoder_getTravelled	24	static

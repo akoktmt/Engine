@@ -1,0 +1,10 @@
+../STM32-Hardware-Driver/MotorController/SpeedController.c:13:6:SpeedController_RunTh	40	static
+../STM32-Hardware-Driver/MotorController/SpeedController.c:29:6:SpeedController_Init	24	static
+../STM32-Hardware-Driver/MotorController/SpeedController.c:43:6:SpeedController_Start	16	static
+../STM32-Hardware-Driver/MotorController/SpeedController.c:53:6:setSpeedAndClearBrake	24	static
+../STM32-Hardware-Driver/MotorController/SpeedController.c:58:7:stopEngineAndBrake	16	static
+../STM32-Hardware-Driver/MotorController/SpeedController.c:63:13:SpeedController_Run	32	static
+../STM32-Hardware-Driver/MotorController/SpeedController.c:96:6:SpeedController_ClearErr	16	static
+../STM32-Hardware-Driver/MotorController/SpeedController.c:101:6:SpeedController_SetSpeed	16	static
+../STM32-Hardware-Driver/MotorController/SpeedController.c:110:7:SpeedController_GetSpeed	16	static
+../STM32-Hardware-Driver/MotorController/SpeedController.c:114:6:SpeedController_SetTunings	24	static

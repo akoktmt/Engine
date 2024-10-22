@@ -1,0 +1,7 @@
+CAN ID Format
+[Sender ID: 4bit][Receiver ID: 4bit][Frametype 3bit]
+Data Format 
+[Byte 0 : ID][Byte 1 - Byte 7 : Data]
+ID 0 :  Brake 
+ID 1 :  Set Speed
+ID .. : Reserve

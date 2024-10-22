@@ -1,0 +1,3 @@
+../Core/Src/freertos.c:110:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:162:6:StartDefaultTask	24	static
+../Core/Src/freertos.c:224:6:CAN_SendData	24	static

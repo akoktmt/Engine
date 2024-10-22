@@ -1,0 +1,9 @@
+../STM32-Hardware-Driver/EngineControl/EngineControl.c:14:5:Engine_ConfigTimer	1
+../STM32-Hardware-Driver/EngineControl/EngineControl.c:24:5:Engine_ConfigControlPin	1
+../STM32-Hardware-Driver/EngineControl/EngineControl.c:32:5:Engine_Init	1
+../STM32-Hardware-Driver/EngineControl/EngineControl.c:41:5:Engine_SetSpeed	14
+../STM32-Hardware-Driver/EngineControl/EngineControl.c:89:5:Engine_Brake	5
+../STM32-Hardware-Driver/EngineControl/EngineControl.c:107:5:Engine_AllowRun	1
+../STM32-Hardware-Driver/EngineControl/EngineControl.c:113:5:Engine_GetMoveDir	1
+../STM32-Hardware-Driver/EngineControl/EngineControl.c:118:5:Engine_ForbidRun	5
+../STM32-Hardware-Driver/EngineControl/EngineControl.c:138:5:Engine_inRange	3
